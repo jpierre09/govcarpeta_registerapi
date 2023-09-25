@@ -4,3 +4,5 @@ db.sqlite3
 
 # Ignora todos los archivos y carpetas de venv
 venv/
+venv
+venv/**
