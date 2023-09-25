@@ -1,0 +1,5 @@
+# Ignora el archivo db.sqlite
+db.sqlite
+
+# Ignora todos los archivos y carpetas de venv
+venv/
